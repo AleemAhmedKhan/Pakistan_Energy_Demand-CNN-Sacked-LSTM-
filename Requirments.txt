@@ -1,0 +1,21 @@
+# Requirements for your project
+
+# Basic data manipulation and analysis libraries
+pandas==1.1.5
+numpy==1.19.5
+
+# Time series analysis and modeling libraries
+statsmodels==0.12.2
+
+# Deep learning libraries
+tensorflow==2.6.0
+keras==2.6.0
+
+# Data visualization libraries
+matplotlib==3.4.3
+
+# Machine learning libraries
+scikit-learn==0.24.2
+
+# Optuna for hyperparameter optimization
+optuna==2.10.0
