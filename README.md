@@ -13,7 +13,9 @@ Harnessing CNN and Stacked LSTM models, our initiative focuses on predicting Pak
 *****
 CNN-LSTM
 ![](Pictures/CNN_LSTM/Pak_Energy_CNN_LSTM_Test_Result.PNG)
-![](Pictures/Stacked_LSTM/Pak_Energy_Stacked_LSTM_Test_Pre.PNGG)
+
+Stacked-LSTM
+![](Pictures/Stacked_LSTM/Pak_Energy_Stacked_LSTM_Test_Pre.PNG)
 
 ## 🌐 How to run?
 ### STEPS:
